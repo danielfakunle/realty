@@ -78,10 +78,20 @@ View the complete design file [here](https://www.figma.com/design/LSWRnD8r9GJvli
 
 ### Landing page
 
+https://github.com/user-attachments/assets/7d5bd57e-710b-4f12-940a-273067566ed1
+
 ### User Authentication
+
+https://github.com/user-attachments/assets/50a72896-1dad-4f96-af88-7237c50ee44e
 
 ### View property
 
+https://github.com/user-attachments/assets/4f0657a8-7b06-496f-b56f-3d2e03cde95c
+
 ### Add property
 
+https://github.com/user-attachments/assets/ef1e103a-9a4e-4811-85ef-07b108708e27
+
 ### View Listings
+
+https://github.com/user-attachments/assets/8ce8b773-ccf2-47d9-8151-b4c40a3b7bde
