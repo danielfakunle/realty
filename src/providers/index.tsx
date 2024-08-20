@@ -1,5 +1,6 @@
 import { ThemeProvider } from "@/components/theme-provider";
 import { ReactNode } from "react";
+import { ClerkProvider } from "@clerk/nextjs";
 
 export default function Providers({
   children,
@@ -9,11 +10,11 @@ export default function Providers({
   return (
     <ThemeProvider
       attribute="class"
-      defaultTheme="system"
+      defaultTheme="light"
       enableSystem
       disableTransitionOnChange
     >
-      {children}
+      <ClerkProvider> {children}</ClerkProvider>
     </ThemeProvider>
   );
 }

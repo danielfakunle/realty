@@ -1,0 +1,31 @@
+:root {
+  --shadow-2xl: 0px 24px 48px -12px rgba(16, 24, 40, 0.18);
+  --shadow-3xl: 0px 32px 64px -12px rgba(16, 24, 40, 0.14);
+  --shadow-focus: 0px 0px 0px 2px rgba(208, 213, 221, 1);
+  --shadow-focus-xs: 0px 0px 0px 2px rgba(208, 213, 221, 1),
+    0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+  --shadow-focus-xs-skeuomorphic: 0px 0px 0px 2px rgba(208, 213, 221, 1),
+    0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+  --shadow-lg: 0px 4px 6px -2px rgba(16, 24, 40, 0.03),
+    0px 12px 16px -4px rgba(16, 24, 40, 0.08);
+  --shadow-md: 0px 2px 4px -2px rgba(16, 24, 40, 0.06),
+    0px 4px 8px -2px rgba(16, 24, 40, 0.1);
+  --shadow-portfolio-mockup-centre-lg: 0px 100px 200px 0px
+    rgba(52, 64, 84, 0.18);
+  --shadow-portfolio-mockup-centre-md: 0px 75px 150px 0px rgba(52, 64, 84, 0.14);
+  --shadow-portfolio-mockup-grid-md: 32px 32px 64px 0px rgba(52, 64, 84, 0.08);
+  --shadow-portfolio-mockup-left-lg: 100px 100px 150px 0px
+    rgba(52, 64, 84, 0.12);
+  --shadow-portfolio-mockup-right-lg: -100px 100px 150px 0px
+    rgba(52, 64, 84, 0.12);
+  --shadow-preline-mockup: 0px 32px 64px -16px rgba(0, 0, 0, 0.15),
+    0px 44px 88px -16px rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0px 1px 2px 0px rgba(16, 24, 40, 0.06),
+    0px 1px 3px 0px rgba(16, 24, 40, 0.1);
+  --shadow-sm-skeuomorphic: 0px 1px 2px 0px rgba(16, 24, 40, 0.06),
+    0px 1px 3px 0px rgba(16, 24, 40, 0.1);
+  --shadow-xl: 0px 8px 8px -4px rgba(16, 24, 40, 0.03),
+    0px 20px 24px -4px rgba(16, 24, 40, 0.08);
+  --shadow-xs: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+  --shadow-xs-skeuomorphic: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+}

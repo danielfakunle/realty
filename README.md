@@ -1,36 +1,87 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img src="public/logo.svg" alt="logo" width="200" height="auto" />
+  <p>A property rental app.</p>
+  <!-- Badges -->
+  <p>
+    <a href="https://github.com/danielfakunle/realty/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/danielfakunle/realty.svg?style=for-the-badge" alt="contributors" />
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/github/last-commit/danielfakunle/realty.svg?style=for-the-badge" alt="last update" />
+    </a>
+    </a>
+    <a href="https://github.com/danielfakunle/realty/issues">
+      <img src="https://img.shields.io/github/issues/danielfakunle/realty.svg?style=for-the-badge" alt="open issues" />
+    </a>
+    <a href="https://github.com/danielfakunle/realty/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/danielfakunle/realty.svg?style=for-the-badge" alt="license" />
+    </a>
+  </p>
+</div>
 
-## Getting Started
+## About the project
 
-First, run the development server:
+Realty is a side project I started during the summer of 2024. It is a property rental app that I designed and developed to learn Next.js and improve my skills in software development and human interface design. The app allows users to browse, search, and book rental properties, offering features like user authentication, property listings, and messaging. This project is a learning experience to explore best practices in building scalable, user-friendly applications.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Tech stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div>
+ <img src="https://img.shields.io/badge/figma-1E1E1E?style=for-the-badge&logo=figma" alt="figma" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
+  <img src="https://img.shields.io/badge/react-222?style=for-the-badge&logo=react" alt="react" />
+  <img src="https://img.shields.io/badge/tailwind%20css-0F172A?style=for-the-badge&logo=tailwindcss" alt="tailwind" />
+  <img src="https://img.shields.io/badge/mongodb-00684A?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="mongoose" />
+  <img src="https://img.shields.io/badge/cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="cloudinary" />
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Features (Planned)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+#### User Authentication
 
-## Learn More
+- **Sign Up/Login**: Complete user authentication flow including log in or sign up with email and password, and social login.
 
-To learn more about Next.js, take a look at the following resources:
+#### Property Listings
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Browse Properties**: Users can browse a list of available rental properties.
+- **Search & Filters**: Advanced search by location, keywords, and proeprty type.
+- **Property Details**: Detailed property pages with images, descriptions, amenities, and contact information, and a map view.
+- **Saved Properties**: Ability to save properties to a favorites list for easy access later.
+- **List properties**: Ability to list properties as a property owner for other users.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#### Communication
 
-## Deploy on Vercel
+- **In-App Messaging**: Prospective renters can message property owners to inquire about properties or request a tour.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Progress
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is currently in development.
+
+#### Additional Features
+
+- **Responsive Design**: Mobile-friendly design for use on smartphones and tablets.
+
+### Completed User Flows
+
+- [x] Login/Signup
+- [x] Browse properties
+- [x] View property details
+- [x] Add a property
+- [x] View listings as a property owner
+
+## Design
+
+View the complete design file [here](https://www.figma.com/design/LSWRnD8r9GJvlil93i38ut/Realty---Final-Designs?node-id=2001-2234&t=FGt4s4itucMPE2y5-1).
+
+## Demos
+
+### Landing page
+
+### User Authentication
+
+### View property
+
+### Add property
+
+### View Listings

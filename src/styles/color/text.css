@@ -1,0 +1,48 @@
+:root {
+  --text-brand-primary: var(--color-brand-900);
+  --text-brand-secondary: var(--color-brand-700);
+  --text-brand-tertiary: var(--color-brand-600);
+  --text-brand-tertiary-alt: var(--color-brand-600);
+  --text-disabled: var(--color-gray-400);
+  --text-error-primary: var(--color-red-600);
+  --text-placeholder: var(--color-gray-500);
+  --text-placeholder-subtle: var(--color-gray-300);
+  --text-primary: var(--color-gray-900);
+  --text-primary-on-brand: var(--white);
+  --text-primary-solid: var(--color-gray-900);
+  --text-quaternary: var(--color-gray-500);
+  --text-quaternary-on-brand: var(--color-brand-300);
+  --text-secondary: var(--color-gray-700);
+  --text-secondary-hover: var(--color-gray-800);
+  --text-secondary-on-brand: var(--color-brand-200);
+  --text-success-primary: var(--color-green-600);
+  --text-tertiary: var(--color-gray-600);
+  --text-tertiary-hover: var(--color-gray-700);
+  --text-tertiary-on-brand: var(--color-brand-200);
+  --text-warning-primary: var(--color-amber-600);
+  --text-white: var(--white);
+}
+
+.dark {
+  --text-brand-primary: var(--color-gray-50);
+  --text-brand-secondary: var(--color-gray-300);
+  --text-brand-tertiary: var(--color-gray-400);
+  --text-brand-tertiary-alt: var(--color-gray-50);
+  --text-disabled: var(--color-gray-500);
+  --text-error-primary: var(--color-red-400);
+  --text-placeholder: var(--color-gray-400);
+  --text-placeholder-subtle: var(--color-gray-700);
+  --text-primary: var(--color-gray-50);
+  --text-primary-on-brand: var(--color-gray-50);
+  --text-primary-solid: var(--color-gray-800);
+  --text-quaternary: var(--color-gray-400);
+  --text-quaternary-on-brand: var(--color-gray-400);
+  --text-secondary: var(--color-gray-300);
+  --text-secondary-hover: var(--color-gray-200);
+  --text-secondary-on-brand: var(--color-gray-300);
+  --text-success-primary: var(--color-green-400);
+  --text-tertiary: var(--color-gray-400);
+  --text-tertiary-hover: var(--color-gray-300);
+  --text-tertiary-on-brand: var(--color-gray-400);
+  --text-warning-primary: var(--color-amber-400);
+}
