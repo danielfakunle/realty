@@ -72,7 +72,7 @@ This project is currently in development.
 
 ## Design
 
-View the complete design file [here](https://www.figma.com/design/LSWRnD8r9GJvlil93i38ut/Realty---Final-Designs?node-id=2001-2234&t=FGt4s4itucMPE2y5-1).
+View the complete design file [here](https://www.figma.com/design/PLGBrw2mnz0HDOgGIrELRv/Realty---Final-Designs?node-id=2001-2234&t=CPcX4Tnv1vVW7c3t-1).
 
 ## Demos
 
